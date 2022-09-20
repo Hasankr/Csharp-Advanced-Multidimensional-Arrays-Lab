@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sum Matrix Elements", "1. Sum Matrix Elements\1. Sum Matrix Elements.csproj", "{E291BC09-D554-4B5A-AE22-E0AE3095FD15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Sum Matrix Elements", "1. Sum Matrix Elements\1. Sum Matrix Elements.csproj", "{E291BC09-D554-4B5A-AE22-E0AE3095FD15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{51B7D290-35D6-49BB-AA83-3679FC5CA4DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{51B7D290-35D6-49BB-AA83-3679FC5CA4DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Square With Maximum Sum", "5. Square With Maximum Sum\5. Square With Maximum Sum.csproj", "{F504EC3C-2ED1-4DFE-B84C-A626859B71B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Square With Maximum Sum", "5. Square With Maximum Sum\5. Square With Maximum Sum.csproj", "{F504EC3C-2ED1-4DFE-B84C-A626859B71B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged-Array Modification", "6. Jagged-Array Modification\6. Jagged-Array Modification.csproj", "{198B9293-592C-4F17-899A-F9F6C142D00F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Jagged-Array Modification", "6. Jagged-Array Modification\6. Jagged-Array Modification.csproj", "{198B9293-592C-4F17-899A-F9F6C142D00F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{BCE5CCC3-7F82-4A37-A5BB-F20659A1D9A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{BCE5CCC3-7F82-4A37-A5BB-F20659A1D9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Symbol in Matrix", "4. Symbol in Matrix\4. Symbol in Matrix.csproj", "{03961246-ACCF-4C22-B2BD-C8A47AE36DE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{BCE5CCC3-7F82-4A37-A5BB-F20659A1D9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE5CCC3-7F82-4A37-A5BB-F20659A1D9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE5CCC3-7F82-4A37-A5BB-F20659A1D9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03961246-ACCF-4C22-B2BD-C8A47AE36DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03961246-ACCF-4C22-B2BD-C8A47AE36DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03961246-ACCF-4C22-B2BD-C8A47AE36DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03961246-ACCF-4C22-B2BD-C8A47AE36DE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
